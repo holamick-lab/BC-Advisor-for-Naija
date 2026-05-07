@@ -1,0 +1,6 @@
+{
+  "name": "BC Advisor 4 Naija",
+  "description": "A multilingual breast cancer advisor for Nigerians, providing education and support in Yoruba, Hausa, and Igbo powered by Gemini RAG.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Multilingual Support", "Text-to-Speech", "RAG-powered AI", "Real-time Medical Awareness"]
+}
